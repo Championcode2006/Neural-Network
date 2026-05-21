@@ -1,2 +1,2 @@
 # Neural-Network
-In this i will be learning the basics of the neural networks and build a small project out of it that is reading the human written to text
+In this i will be doing the basics of the neural networks and build a small project out of it that is reading the human written digits to digits in the text format without using Pytorch and Tensorflow so we can understand how to neural networks actually learn and execute
